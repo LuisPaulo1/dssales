@@ -1,5 +1,7 @@
 import Header from './components/header';
 import Filter from './components/filter';
+import SalesByDate from './components/sales-by-date';
+import SalesSummary from './components/sales-summary';
 
 import './App.css';
 
@@ -9,6 +11,10 @@ function App() {
       <Header />
       <div className="app-container">
         <Filter />
+        <SalesByDate />
+        <div className="sales-overview-container">
+          <SalesSummary />
+        </div>
       </div>
     </>
   );
