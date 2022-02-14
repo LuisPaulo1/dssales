@@ -1,8 +1,9 @@
 import flatpickrLib from 'flatpickr';
 import { Portuguese } from 'flatpickr/dist/l10n/pt';
-import { useState } from 'react';
 import FlatPicker from 'react-flatpickr';
+import React, { useState } from 'react';
 import { FilterData, Gender } from '../../types';
+import 'flatpickr/dist/themes/material_green.css';
 
 import './styles.css';
 
