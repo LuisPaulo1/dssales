@@ -10,6 +10,9 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 ###
 ![Output sample](https://github.com/LuisPaulo1/assets/blob/master/dssales/home-gif.gif)
 
+## Collection do Postman
+Importar o link no Postman: https://www.getpostman.com/collections/63438da0f127c0b11c3f
+
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/LuisPaulo1/assets/blob/master/dssales/diagrama-classes.png)
 
