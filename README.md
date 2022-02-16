@@ -18,7 +18,7 @@ Importar o link no Postman: https://www.getpostman.com/collections/63438da0f127c
 
 # Tecnologias utilizadas
 ## Backend
-- Java
+- Java 11
 - Spring (boot, web, data)
 - Maven
 - Banco de dados H2 e Postgres
@@ -38,7 +38,7 @@ git clone https://github.com/LuisPaulo1/dssales.git
 ```
 
 ## Para executar o backend
-Pré-requisitos: Java 11
+Pré-requisitos: Java 8+
 
 ```bash
 # entrar na pasta do projeto backend
